@@ -1,0 +1,6 @@
+[
+["index.html", "Introduction to Sports Analytics Intro to Sports Analytics", " Introduction to Sports Analytics Scott LaForest 2020-03-05 Intro to Sports Analytics Quarter 1: Intro to analytics History of analytics Typical software R Basics Math review Intermission 1: Moneyball Quarter 2: Football Analytics Advanced stats resources pff football outsiders football-reference nflscrapr Halftime: Basketball On Paper Quarter 3: Basketball Analytics advanced stats 101 online data: stats.nba.com basketball-reference pbpstats nyloncalculus nbastatr Intermission 2: The Book Quarter 4: Baseball Analytics advanced stats online data: fangraphs baseballsavant baseball prospectus baseball-reference baseballr bookdown::render_book(“index.Rmd”, “bookdown::gitbook”) "],
+["introduction-to-analytics.html", "Quarter 1 Introduction to Analytics 1.1 Learn stuff about analytics", " Quarter 1 Introduction to Analytics 1.1 Learn stuff about analytics "],
+["intermission-1-moneyball.html", "Intermission 1: Moneyball", " Intermission 1: Moneyball Read Moneyball and discuss. "],
+["football.html", "Quarter 2 Football 2.1 football stuff", " Quarter 2 Football 2.1 football stuff "]
+]

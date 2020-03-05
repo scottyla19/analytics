@@ -1,0 +1,50 @@
+--- 
+title: "Introduction to Sports Analytics"
+author: "Scott LaForest"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is an introduction to sports analytics aimed at high school students."
+---
+
+# Intro to Sports Analytics {-}
+
+
+
+- Quarter 1: Intro to analytics
+  - History of analytics
+  - Typical software
+  - R Basics
+  - Math review
+- Intermission 1: Moneyball
+- Quarter 2: Football Analytics
+  - Advanced stats
+  - resources
+    - pff
+    - football outsiders
+    - football-reference
+  - nflscrapr
+- Halftime: Basketball On Paper
+- Quarter 3: Basketball Analytics
+  - advanced stats 101
+  - online data:
+    - stats.nba.com
+    - basketball-reference
+    - pbpstats
+    - nyloncalculus
+  - nbastatr
+- Intermission 2: The Book
+- Quarter 4: Baseball Analytics
+  - advanced stats
+  - online data:
+    - fangraphs
+    - baseballsavant
+    - baseball prospectus
+    - baseball-reference
+  - baseballr
+  
+
+

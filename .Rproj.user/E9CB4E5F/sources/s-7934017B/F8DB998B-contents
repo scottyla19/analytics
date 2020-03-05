@@ -1,0 +1,147 @@
+--- 
+title: "Introduction to Sports Analytics"
+author: "Scott LaForest"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is an introduction to sports analytics aimed at high school students."
+---
+
+# Intro to Sports Analytics
+
+
+
+- Quarter 1: Intro to analytics
+  - History of analytics
+  - Typical software
+  - R Basics
+  - Math review
+- Intermission 1: Moneyball
+- Quarter 2: Football Analytics
+  - Advanced stats
+  - resources
+    - pff
+    - football outsiders
+    - football-reference
+  - nflscrapr
+- Halftime: Basketball On Paper
+- Quarter 3: Basketball Analytics
+  - advanced stats 101
+  - online data:
+    - stats.nba.com
+    - basketball-reference
+    - pbpstats
+    - nyloncalculus
+  - nbastatr
+- Intermission 2: The Book
+- Quarter 4: Baseball Analytics
+  - advanced stats
+  - online data:
+    - fangraphs
+    - baseballsavant
+    - baseball prospectus
+    - baseball-reference
+  - baseballr
+  
+
+bookdown::render_book("index.Rmd", "bookdown::gitbook")
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction to Analytics 
+
+## Learn stuff about analytics
+
+<!--chapter:end:01-intro.Rmd-->
+
+# Intermission 1: Moneyball {-}
+
+Read *Moneyball* and discuss.
+
+<!--chapter:end:015-moneyball.Rmd-->
+
+# Football 
+
+
+## football stuff
+
+<!--chapter:end:02-football.Rmd-->
+
+--- 
+title: "Introduction to Sports Analytics"
+author: "Scott LaForest"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is an introduction to sports analytics aimed at high school students."
+---
+
+# Intro to Sports Analytics
+
+
+
+- Quarter 1: Intro to analytics
+  - History of analytics
+  - Typical software
+  - R Basics
+  - Math review
+- Intermission 1: Moneyball
+- Quarter 2: Football Analytics
+  - Advanced stats
+  - resources
+    - pff
+    - football outsiders
+    - football-reference
+  - nflscrapr
+- Halftime: Basketball On Paper
+- Quarter 3: Basketball Analytics
+  - advanced stats 101
+  - online data:
+    - stats.nba.com
+    - basketball-reference
+    - pbpstats
+    - nyloncalculus
+  - nbastatr
+- Intermission 2: The Book
+- Quarter 4: Baseball Analytics
+  - advanced stats
+  - online data:
+    - fangraphs
+    - baseballsavant
+    - baseball prospectus
+    - baseball-reference
+  - baseballr
+  
+
+bookdown::render_book("index.Rmd", "bookdown::gitbook")
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction to Analytics {#intro}
+
+## Learn stuff about analytics
+
+<!--chapter:end:01-intro.Rmd-->
+
+# Intermission 1: Moneyball {-}
+
+Read *Moneyball* and discuss.
+
+<!--chapter:end:015-moneyball.Rmd-->
+
+# Football {#football}
+
+
+## football stuff
+
+<!--chapter:end:02-football.Rmd-->
+
+
+<!--chapter:end:03-data-analytics.Rmd-->
+
